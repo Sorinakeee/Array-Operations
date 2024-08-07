@@ -1,2 +1,2 @@
-# Personal-projects
-A list of personal projects
+# Array operations
+Different types of operations within arrays based on OOP
